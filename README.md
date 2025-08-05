@@ -11,8 +11,8 @@ We model a realistic scenario where a limited advertising budget must be allocat
 
 ## ⚖️ Classical vs Quantum Comparison
 
-Before applying QAOA, the problem was first solved using a **classical exact optimizer** to find the optimal solution and serve as a benchmark.  
-This allows for a direct comparison between the classical and quantum-inspired solutions in terms of Accuracy of the solution.
+Before applying **QAOA**, the problem was first solved using a **classical solver** to find the optimal solution and serve as a benchmark.  
+This allows for a direct comparison between the classical and quantum-inspired solutions in terms of accuracy.
 
 ---
 
